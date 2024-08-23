@@ -21,7 +21,6 @@ conda-libmamba-solver=23.12.0=pyhd8ed1ab_0
 conda-package-handling=2.2.0=pyh38be061_0
 conda-package-streaming=0.9.0=pyhd8ed1ab_0
 contourpy=1.2.1=py310hd41b1e2_0
-cshogi=0.8.8=pypi_0
 cuda-cudart=12.1.105=0
 cuda-cupti=12.1.105=0
 cuda-libraries=12.1.0=0
