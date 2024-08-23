@@ -48,6 +48,7 @@ gst-plugins-base=1.14.1=h6a678d5_1
 gstreamer=1.14.1=h5eee18b_1
 icu=73.2=h59595ed_0
 idna=3.6=pyhd8ed1ab_0
+ipykernel=6.29.5=pyh3099207_0
 intel-openmp=2023.1.0=hdb19cb5_46306
 jinja2=3.1.4=pyhd8ed1ab_0
 jpeg=9e=h166bdaf_2
